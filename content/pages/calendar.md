@@ -4,49 +4,536 @@ title: Calendar
 uid: 61f99c09-e08f-8aae-caca-1f1253619f42
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction, Overview Lab Section Selection |
-| 2 |  {{< br >}}{{< br >}} Process Planning CAD/CAM {{< br >}}{{< br >}} Lab I: CAD/CAM/Process Plan I {{< br >}}{{< br >}}  |
-| 3 | Lab I: CAD/CAM/Process Plan I |
-| 4  {{< br >}}  {{< br >}} |  {{< br >}}{{< br >}} Design for Manufacturing {{< br >}}{{< br >}} Lab I: CAD/CAM/Process Plan I {{< br >}}{{< br >}}  |
-| 5 | Lab I: CAD/CAM/Process Plan I |
-| 6 |  {{< br >}}{{< br >}} Polymer Processing {{< br >}}{{< br >}} Lab II: CAD/CAM/Process Plan II {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Injection Molding {{< br >}}{{< br >}} Lab II: CAD/CAM/Process Plan II {{< br >}}{{< br >}}  |
-| 8 | Lab II: CAD/CAM/Process Plan II |
-| 9 |  {{< br >}}{{< br >}} Thermoforming Casting {{< br >}}{{< br >}} Lab III: CAD/CAM/Process Plan III {{< br >}}{{< br >}}  |
-| 10 | Lab II: CAD/CAM/Process Plan II |
-| 11 |  {{< br >}}{{< br >}} Cutting I Tools and Fixtures {{< br >}}{{< br >}} Lab III: CAD/CAM/Process Plan III {{< br >}}{{< br >}}  |
-| 12 | Lab III: CAD/CAM/Process Plan III |
-| 13 |  {{< br >}}{{< br >}} Cutting II Machine Tools/Fixtures Precision Engineering {{< br >}}{{< br >}} Lab IV: Discrete Products Manufacturing: Yo-Yo Design {{< br >}}{{< br >}}  |
-| 14 | Lab III: CAD/CAM/Process Plan III |
-| 15 |  {{< br >}}{{< br >}} Joining I Assembly {{< br >}}{{< br >}} Lab IV: Discrete Products Manufacturing: Yo-Yo Design {{< br >}}{{< br >}}  |
-| 16 | Lab IV: Discrete Products Manufacturing: Yo-Yo Design |
-| 17 |  {{< br >}}{{< br >}} Joining II DFA {{< br >}}{{< br >}} Lab V: Discrete Products Manufacturing: Mold Design {{< br >}}{{< br >}}  |
-| 18 | Lab IV: Discrete Products Manufacturing: Yo-Yo Design |
-| 19 |  {{< br >}}{{< br >}} MEMS {{< br >}}{{< br >}} Lab V: Discrete Products Manufacturing: Mold Design {{< br >}}{{< br >}}  |
-| 20 | Lab V: Discrete Products Manufacturing: Mold Design |
-| 21 | Micro/Nano Manufacturing |
-| 22 | Lab V: Discrete Products Manufacturing: Mold Design |
-| 23 | Quiz 1 |
-| 24 |  {{< br >}}{{< br >}} Metal Forming {{< br >}}{{< br >}} Lab VI: Discrete Products Manufacturing: Mold Fabrication {{< br >}}{{< br >}}  |
-| 25 | Lab VI: Discrete Products Manufacturing: Mold Fabrication |
-| 26 |  {{< br >}}{{< br >}} Manufacturing Cost {{< br >}}{{< br >}} Lab VI: Discrete Products Manufacturing: Mold Fabrication {{< br >}}{{< br >}}  |
-| 27 | Lab VI: Discrete Products Manufacturing: Mold Fabrication |
-| 28 |  {{< br >}}{{< br >}} Quality/Control I {{< br >}}{{< br >}} Lab VII: Discrete Products Manufacturing: Yo-Yo Production {{< br >}}{{< br >}}  |
-| 29 | Lab VII: Discrete Products Manufacturing: Yo-Yo Production |
-| 30 |  {{< br >}}{{< br >}} Quality/Control II {{< br >}}{{< br >}} Lab VII: Discrete Products Manufacturing: Yo-Yo Production {{< br >}}{{< br >}}  |
-| 31 | Lab VII: Discrete Products Manufacturing: Yo-Yo Production |
-| 32 |  {{< br >}}{{< br >}} Manufacturing Systems I {{< br >}}{{< br >}} Lab VIII: Discrete Products Manufacturing: Product Variation {{< br >}}{{< br >}}  |
-| 33 | Lab VIII: Discrete Products Manufacturing: Product Variation |
-| 34 |  {{< br >}}{{< br >}} Manufacturing Systems II {{< br >}}{{< br >}} Lab VIII: Discrete Products Manufacturing: Product Variation {{< br >}}{{< br >}}  |
-| 35 | Lab VIII: Discrete Products Manufacturing: Product Variation |
-| 36 |  {{< br >}}{{< br >}} Metal Casting {{< br >}}{{< br >}} Plant Tour {{< br >}}{{< br >}}  |
-| 37 | Plant Tour |
-| 38 |  {{< br >}}{{< br >}} Environment Issues in Manufacturing {{< br >}}{{< br >}} Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations {{< br >}}{{< br >}}  |
-| 39 | Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations |
-| 40 |  {{< br >}}{{< br >}} Advances in Manufacturing {{< br >}}{{< br >}} Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations {{< br >}}{{< br >}}  |
-| 41 | Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations |
-| 42 | Advances in Manufacturing II |
-| 43 | Quiz II |
-| 44 |  {{< br >}}{{< br >}} Presentations {{< br >}}{{< br >}} End of Class {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction, Overview Lab Section Selection
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Process Planning CAD/CAM
+
+Lab I: CAD/CAM/Process Plan I
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Lab I: CAD/CAM/Process Plan I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4  
+  
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design for Manufacturing
+
+Lab I: CAD/CAM/Process Plan I
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Lab I: CAD/CAM/Process Plan I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Polymer Processing
+
+Lab II: CAD/CAM/Process Plan II
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Injection Molding
+
+Lab II: CAD/CAM/Process Plan II
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Lab II: CAD/CAM/Process Plan II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Thermoforming Casting
+
+Lab III: CAD/CAM/Process Plan III
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lab II: CAD/CAM/Process Plan II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cutting I Tools and Fixtures
+
+Lab III: CAD/CAM/Process Plan III
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Lab III: CAD/CAM/Process Plan III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Cutting II Machine Tools/Fixtures Precision Engineering
+
+Lab IV: Discrete Products Manufacturing: Yo-Yo Design
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Lab III: CAD/CAM/Process Plan III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joining I Assembly
+
+Lab IV: Discrete Products Manufacturing: Yo-Yo Design
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Lab IV: Discrete Products Manufacturing: Yo-Yo Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joining II DFA
+
+Lab V: Discrete Products Manufacturing: Mold Design
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Lab IV: Discrete Products Manufacturing: Yo-Yo Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+MEMS
+
+Lab V: Discrete Products Manufacturing: Mold Design
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Lab V: Discrete Products Manufacturing: Mold Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Micro/Nano Manufacturing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Lab V: Discrete Products Manufacturing: Mold Design
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Metal Forming
+
+Lab VI: Discrete Products Manufacturing: Mold Fabrication
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Lab VI: Discrete Products Manufacturing: Mold Fabrication
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manufacturing Cost
+
+Lab VI: Discrete Products Manufacturing: Mold Fabrication
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Lab VI: Discrete Products Manufacturing: Mold Fabrication
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quality/Control I
+
+Lab VII: Discrete Products Manufacturing: Yo-Yo Production
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Lab VII: Discrete Products Manufacturing: Yo-Yo Production
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Quality/Control II
+
+Lab VII: Discrete Products Manufacturing: Yo-Yo Production
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Lab VII: Discrete Products Manufacturing: Yo-Yo Production
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manufacturing Systems I
+
+Lab VIII: Discrete Products Manufacturing: Product Variation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Lab VIII: Discrete Products Manufacturing: Product Variation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Manufacturing Systems II
+
+Lab VIII: Discrete Products Manufacturing: Product Variation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Lab VIII: Discrete Products Manufacturing: Product Variation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Metal Casting
+
+Plant Tour
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Plant Tour
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Environment Issues in Manufacturing
+
+Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Advances in Manufacturing
+
+Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41
+{{< tdclose >}}
+{{< tdopen >}}
+Lab IX: Discrete Products Manufacturing: Manufacturing Systems: Variations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+42
+{{< tdclose >}}
+{{< tdopen >}}
+Advances in Manufacturing II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentations
+
+End of Class
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

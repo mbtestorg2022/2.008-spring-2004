@@ -82,12 +82,57 @@ Grading Policy
 
 Your grade will be based on your overall performance in class, labs, group meetings, and quizzes. They count approximately as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  2 Quizzes | 40% |
-| Lab Performance and Reports | 30% |
-| Homework | 10% |
-| Group Meetings + Final Presentation | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 2 Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab Performance and Reports
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Meetings + Final Presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The quizzes are closed book and cover material from the lectures as well as the labs.
 
